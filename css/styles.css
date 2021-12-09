@@ -1,0 +1,8 @@
+.container-fluid{
+    max-width: 80%;
+    padding: 0 2em;
+}
+
+#top_header{
+    padding: 1.5em 1em;
+}
