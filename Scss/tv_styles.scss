@@ -1,0 +1,48 @@
+#top_header{
+    margin-bottom: 1.5em;
+    border-bottom: 0.1px solid #d4d0d0;
+}
+
+#tvShows_Section{
+    margin-top: 15px;
+    padding: 1em 2em 2em 0;
+    header{
+        text-align: center;
+        margin-bottom: 35px;
+        h2{
+            font-size: 2em;
+        }
+    }
+
+.row{
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: center;
+    .post{
+        width:250px;
+        margin-top: 40px;
+        margin-right: 20px;
+        img{
+            max-width: 85%;
+            border-radius: .5em;
+        }
+        .title{
+            font-size: 1.25em;
+            margin: 1em 3em 0 0;
+            text-align: center;
+        }
+        .post_info{
+            font-size: .75em;
+            margin:0.5em 4em 0 0;
+            text-align: center;
+        }
+    }
+}
+    border-bottom: 1px solid #d5d5d5;
+}
+
+#main_footer{
+    padding: 0.7em 0;
+    margin-top: 5px;
+    }
